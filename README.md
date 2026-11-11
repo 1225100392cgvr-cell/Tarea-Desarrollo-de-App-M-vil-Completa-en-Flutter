@@ -37,6 +37,12 @@ VentadeCarros/lib/
 └── widgets/  car_card · car_image · category_chips
 ```
 
+## Pruebas (`flutter test`)
+
+Resultado de correr `flutter test`: **4 pruebas pasan** (*All tests passed!*). Las pruebas están en [`VentadeCarros/test/widget_test.dart`](VentadeCarros/test/widget_test.dart).
+
+<img src="screenshots/flutter_test.png" alt="Resultado de flutter test" width="900">
+
 ## Cómo ejecutar
 
 ```bash
